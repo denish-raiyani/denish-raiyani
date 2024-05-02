@@ -3,12 +3,12 @@
 <!-- <p align="center">
   <b style="color: lightblue;">Visitor count</b>
   <br>
-  <img src="https://profile-counter.glitch.me/denishraiyani/count.svg" />
+  <img src="https://profile-counter.glitch.me/denish-raiyani/count.svg" />
 </p> -->
 
 <br />
 
-<img align="right" alt="GIF" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="35%" height="40%">
+<img align="right" alt="GIF" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="35%" height="45%">
 
 <!-- **I am a Full-stack (MERN) Web-developer.** -->
 <!-- <br /><br /> -->
@@ -24,7 +24,7 @@
 
 ## 🌏 **CONNECT WITH ME**
 
-<a  href="https://www.linkedin.com/in/denishraiyani96/">
+<a  href="https://www.linkedin.com/in/denish-raiyani">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
 </a>
 <a href="https://twitter.com/denishraiyani96"> 
@@ -33,7 +33,7 @@
 <a href="mailto:336474.raiyani@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
 </a>
-<a href="https://github.com/denishraiyani"> 
+<a href="https://github.com/denish-raiyani"> 
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"  alt="GitHub"/>
 </a>
 <!-- <a href="https://www.facebook.com/denishraiyani96"> 
@@ -57,9 +57,9 @@
 
 <div style="width: 100%; display: flex; align-items: center;">
   &nbsp; &nbsp; &nbsp; &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=denishraiyani&show_icons=true&theme=tokyonight&rank_icon=github&locale=en" alt="denishraiyani"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=denish-raiyani&show_icons=true&theme=tokyonight&rank_icon=github&locale=en" alt="denish-raiyani"/>
   &nbsp; &nbsp; &nbsp; &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denishraiyani&theme=tokyonight" alt="denishraiyani"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denish-raiyani&theme=tokyonight" alt="denish-raiyani"/>
 </div>
 
 <br /><br />
@@ -68,7 +68,7 @@
 
 <p align="left">&nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=denishraiyani&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="denishraiyani" />
+    <img src="https://github-profile-trophy.vercel.app/?username=denish-raiyani&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="denish-raiyani" />
   </a>
 </p>
 
@@ -115,7 +115,7 @@
 <!-- [![Shell Scripts](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)][repo] -->
 <!-- [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black "Linux")][repo] -->
 
-[repo]: https://github.com/denishraiyani?tab=repositories
+[repo]: https://github.com/denish-raiyani?tab=repositories
 
 <br />
 <hr />
