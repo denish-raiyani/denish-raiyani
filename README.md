@@ -27,7 +27,7 @@
 <a href="https://twitter.com/denishraiyani96"> 
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" title="Twitter"  alt="Twitter"/>
 </a>
-<a href="mailto:336474.raiyani@gmail.com"> 
+<a href="mailto:denish.raiyani96@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
 </a>
 <a href="https://github.com/denish-raiyani"> 
