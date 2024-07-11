@@ -8,7 +8,7 @@
 
 <br />
 
-<img align="right" alt="GIF" src="https://i.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.webp" width="35%" height="45%">
+<img align="right" alt="GIF" src="https://i.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.webp" width="26%" height="40%">
 
 <!-- **I am a Full-stack (MERN) Web-developer.** -->
 <!-- <br /><br /> -->
