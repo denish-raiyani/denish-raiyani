@@ -14,9 +14,9 @@
 <!-- <br /><br /> -->
 
 - I’m interested in coding.
-  <br /><br />
+
 - I’m currently learning Web Development.
-  <br /><br />
+
 - I'm looking to collaborate on exciting and innovative projects that align with my skills and interests.
 
 <hr/>
