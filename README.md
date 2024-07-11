@@ -6,9 +6,7 @@
   <img src="https://profile-counter.glitch.me/denish-raiyani/count.svg" />
 </p> -->
 
-<br />
-
-<img align="right" alt="GIF" src="https://i.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.webp" width="28%" height="45%">
+<img align="right" alt="GIF" src="https://i.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.webp" width="30%">
 
 <!-- **I am a Full-stack (MERN) Web-developer.** -->
 <!-- <br /><br /> -->
@@ -19,7 +17,6 @@
 
 - I'm looking to collaborate on exciting and innovative projects that align with my skills and interests.
 
-<hr/>
 <br />
 
 ## 🌏 **CONNECT WITH ME**
